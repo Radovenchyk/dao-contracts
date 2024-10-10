@@ -1008,6 +1008,18 @@ dependencies = [
 ]
 
 [[package]]
+name = "cw-snapshot-vector-map"
+version = "2.5.0"
+dependencies = [
+ "cosmwasm-schema",
+ "cosmwasm-std",
+ "cw-storage-plus 1.2.0",
+ "cw-utils 1.0.3",
+ "cw20 1.1.2",
+ "serde",
+]
+
+[[package]]
 name = "cw-stake-tracker"
 version = "2.5.0"
 dependencies = [

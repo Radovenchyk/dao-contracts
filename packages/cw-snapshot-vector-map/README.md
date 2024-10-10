@@ -1,0 +1,2 @@
+# CW Snapshot Vector Map
+
